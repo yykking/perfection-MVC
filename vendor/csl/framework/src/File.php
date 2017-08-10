@@ -3,7 +3,7 @@
 namespace framework;
 /**
  * @abstract:   文件操作类，定义文件操作的公有方法
- * @author:     成少雷
+ * @author:     yyk
  * @date:       2017-03
  * @version:    v1.0
  */

@@ -2,7 +2,7 @@
 namespace framework;
 /**
  * @abstract:   文件上传类
- * @author:     成少雷
+ * @author:     yyk
  * @date:       2017-04-10
  * @version:    v1.0
  */

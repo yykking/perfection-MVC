@@ -4,7 +4,7 @@ include 'File.php';
 
 /**
  * @abstract: 图片操作类  
- * @author:     
+ * @author:   yyk  
  * @date:       
  * @version:    
  */
